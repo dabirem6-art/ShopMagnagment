@@ -1,0 +1,6 @@
+{
+  "name": "ShopManager Pro",
+  "description": "ShopManager Pro : Solution complète de gestion commerciale. Installation Android supportée (PWA), Gestion des stocks, Ventes (POS), Clients, Dépenses et Abonnement Premium.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["firebase"]
+}
